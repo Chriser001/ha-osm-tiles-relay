@@ -1,0 +1,9 @@
+{
+  "domain": "osm_tiles_proxy",
+  "name": "OSM Tiles Upstream Override",
+  "version": "1.0.1",
+  "requirements": [],
+  "dependencies": ["map_tiles"],
+  "codeowners": [],
+  "config_flow": false
+}
